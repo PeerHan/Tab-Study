@@ -1,0 +1,10 @@
+Weights
+*.ipynb
+**/.ipynb_checkpoints
+**/__pycache__
+**/checkpoints
+Archive
+Logs
+Supplement
+**/Applic
+**/*_preds.csv
